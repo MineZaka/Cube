@@ -1,0 +1,1 @@
+( <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://gitlab.com/friendly-telegram/friendly-telegram/-/raw/master/install.sh))
